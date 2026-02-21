@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sindy-11/sindy-11/blob/main/banner.png?raw=true" />
+  <img src="https://github.com/sindy-11/sindy-11/blob/main/banner.png?raw=true" 
 " />
 </p>
 
