@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="1536" height="1024" alt="ChatGPT Image 21 февр  2026 г , 18_35_26" src="https://github.com/user-attachments/assets/e9a2c3b6-ab68-4aaa-8a28-dd28882dd38b" />
+  <img src="https://github.com/sindy-11/sindy-11/blob/main/banner.png?raw=true" />
 " />
 </p>
 
